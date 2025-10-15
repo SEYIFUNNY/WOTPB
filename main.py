@@ -9,10 +9,10 @@ from telegram.error import TimedOut
 import asyncio
 
 # === CONFIG === (use environment variables)
-BOT_TOKEN = os.environ.get("8158173689:AAGx3Olc5x--__MhnuokE8lGG7HKhWbeX7g")
-CHAT_ID = os.environ.get("-1002352445455")
-USERNAME = os.environ.get("Client01")
-PASSWORD = os.environ.get("Client01")
+BOT_TOKEN = os.environ.get("8455666531:AAHw_32Q29kmmlRV4GvKsSpZbS4O65s0OpY")
+CHAT_ID = os.environ.get("-1002939166490")
+USERNAME = os.environ.get("hypermethod")
+PASSWORD = os.environ.get("Hyper_Method")
 BASE_URL = os.environ.get("http://94.23.120.156")
 LOGIN_PAGE_URL = os.environ.get("http://94.23.120.156/ints/login")
 LOGIN_POST_URL = BASE_URL + "/ints/login"
